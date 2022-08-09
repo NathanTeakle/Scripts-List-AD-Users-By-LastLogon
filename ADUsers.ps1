@@ -1,4 +1,6 @@
 # Description of what this script does along with the scripts author and date of creation
+# Lists AD Users by last logon time and last password reset.
+# Requires Active Directory PowerShell Module to funciton. 
 Write-Host("-----------------------------------------------------------------------------------------------")
 Write-Host("List AD Users by last logon - Author: NTeakle - Date: 26/07/2022")
 Write-Host("")
